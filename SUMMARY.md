@@ -23,9 +23,4 @@
 ## Developer Guilder
 
 * [Platform Overview](developer-guilder/platform-overview.md)
-* [API References](developer-guilder/api-references/README.md)
-  * [Introduction](developer-guilder/api-references/introduction/README.md)
-    * [Overview](developer-guilder/api-references/introduction/overview.md)
-    * [Release Notes](developer-guilder/api-references/introduction/release-notes.md)
-  * [API Version 1](developer-guilder/api-references/api-version-1.md)
-  * [APIV1](https://app.gitbook.com/o/oJEHbNwYvaSg75tA16YS/s/r8iEBhx1zKtpuBmk4Wo0/reference/api-reference)
+* [API Reference](https://docs.kiwilightyear.com/v/pearl-api)
